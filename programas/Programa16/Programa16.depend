@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406762399 source:c:\users\jose\desktop\proyectos y programacion\progra de sistemas\programas con codeblocks\programa16\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

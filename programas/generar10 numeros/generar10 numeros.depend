@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406760507 source:c:\users\nestor\desktop\de la claseee\generar10 numeros\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
