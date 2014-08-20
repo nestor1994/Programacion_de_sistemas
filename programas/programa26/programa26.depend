@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407453481 source:c:\users\acer\documents\github\alejandrocortes 2014\codeblocks-clase\programa26\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+
