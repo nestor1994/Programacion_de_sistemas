@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1410474457 source:c:\users\nestor\desktop\segundo parcial de progra\string y string.h\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

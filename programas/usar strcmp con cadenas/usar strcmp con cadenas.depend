@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410390426 source:c:\users\nestor\desktop\segundo parcial de progra\usar strcmp con cadenas\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409008976 source:c:\users\acer\documents\github\programacion2\2 parcial\programa3-arreglos\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

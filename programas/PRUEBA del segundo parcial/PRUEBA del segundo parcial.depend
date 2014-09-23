@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409267237 source:c:\users\nestor\desktop\segundo parcial de progra\prueba del segundo parcial\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+

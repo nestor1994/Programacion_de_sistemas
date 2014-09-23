@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1410303548 source:c:\users\nestor\desktop\segundo parcial de progra\cadenas\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

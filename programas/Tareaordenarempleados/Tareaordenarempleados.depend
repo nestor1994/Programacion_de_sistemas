@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409663244 source:c:\users\jose\desktop\proyectos y programacion\progra de sistemas\programas con codeblocks\tareaordenarempleados\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1409704631 source:c:\users\nestor\desktop\segundo parcial de progra\tarea del segundo parcial\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
